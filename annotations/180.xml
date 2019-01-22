@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotations</folder>
+	<filename>180.png</filename>
+	<path>/home/renete/Downloads/juegos/surviv/annotations/180.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1840</width>
+		<height>980</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Player</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>874</xmin>
+			<ymin>423</ymin>
+			<xmax>967</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>
